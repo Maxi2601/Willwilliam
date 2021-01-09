@@ -23,6 +23,7 @@ a {
 }
 
 .texteomini {
+    font-size: 50%;
     font-size: 70%;
 }
 
@@ -44,6 +45,7 @@ a {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    size: 50%;
+    width: 203px;
+    height: 118px;
 }
 
