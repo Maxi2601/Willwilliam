@@ -49,16 +49,21 @@ a {
     height: 118px;
 }
 
-table, th {
-    margin-left: auto;
-    margin-right: auto;
-    border: 1px solid black;
-}
+table, th  {
+    border: 1px solid white;
+  }
 
-tr {
+td {
     text-align: center;
 }
 
+.centré-tabla {
+    margin-left: auto;
+    margin-right: auto;
+}
 
+.centré-texto {
+    text-align: center;
+}
 
 
