@@ -1,12 +1,28 @@
+@font-face {
+    font-family: 'WillFont';
+    src: url('https://willwilliam.tk/source/WillFont-Regular.ttf')
+}
+
+@font-face {
+    font-family: 'WillFont-ex';
+    src: url('https://willwilliam.tk/source/WillFontEx-Regular.ttf')
+}
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'WillFont', 'WillFont-ex', Helvetica;
 }
 
 h1 {
-    font-size: 100px;
+    font-size: 150px;
     text-align: center;
+    margin: 10px 50px;
 }
 
+h2 {
+    font-size: 50px ;
+    text-align: center;
+    margin: 25px 50px;
+}
 
 nav {
     text-align: center
@@ -19,12 +35,23 @@ a {
 /* Classéo */
 .texteo {
     text-align: center;
+}
 
+.und {
+    text-decoration: none;
 }
 
 .texteomini {
     font-size: 50%;
     text-align: center;
+}
+
+.markeo {
+    font-family: Helvetica;
+}
+
+.discordo {
+    color: #7289da;
 }
 
 .logowill {
@@ -48,6 +75,8 @@ a {
     width: 203px;
     height: 118px;
 }
+
+/* gallerys funny */
 
 table, th  {
     border: 1px solid white;
