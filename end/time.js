@@ -1,6 +1,6 @@
 // It's just a countdown that i took from w3school so yeah.
 // Sex counté down of the day of the unfunny
-var countDownDate = new Date("Apr 09, 2021 00:00:00").getTime();
+var countDownDate = new Date("Mar 23, 2022 00:00:00").getTime();
 
 // Update every sexcond
 var x = setInterval(function() {
