@@ -111,3 +111,9 @@ td {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*Hopefully this _Will_ make the images look better in all devices*/
+img {
+    width: 100%;
+    height: auto;
+}
